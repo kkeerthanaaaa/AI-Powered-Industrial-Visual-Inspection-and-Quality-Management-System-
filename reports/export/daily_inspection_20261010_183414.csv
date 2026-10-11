@@ -1,0 +1,9 @@
+ABC Precision Manufacturing Pvt. Ltd. - Daily Inspection Report
+Generated:,Sat Oct 10 18:34:14 IST 2026
+Total Records:,4
+
+Inspection ID,Product,Batch Number,Inspector,Decision,Confidence,Date,Remarks
+1,"Brake Disc Ventilated 320mm","BATCH-2026-BRK-01","Priya Patel (Lead QE)",PASS,98.45%,"","Finished rotor surface meets ISO 9001 specs. Balanced and scratch-free."
+2,"Aircraft Titanium Wing Bracket","BATCH-2026-AERO-03","Priya Patel (Lead QE)",FAIL,94.60%,"","AI flagged 94.6% confidence structural micro-crack on upper spar mount. Scrap confirmed."
+3,"Engine Mount Hydraulic Assembly","BATCH-2026-ENG-02","Kavita Roy (Inspector)",PASS,97.10%,"","Damping rubber bonding intact, bolt channels clean."
+11,"","","",PASS,0.00%,"2026-10-10 18:34:14","Optical inspection verified clean"
